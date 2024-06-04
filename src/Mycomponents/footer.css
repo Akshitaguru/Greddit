@@ -1,0 +1,9 @@
+.footer{
+    text-align: center;
+    position: relative;
+    color: rgb(238, 229, 229);
+    background-color: black;
+    opacity: 100%;
+    overflow: auto;
+    
+}
